@@ -1,10 +1,10 @@
 # **Welcome to the OSCP-Prep-Guide wiki!**
-## **A curated list of TryHackme (THM) and HackTheBox (HTB) resources, modules and rooms to be used with OSCP. The list is not complete and will be updated regularly**
+### **A curated list of TryHackme (THM) and HackTheBox (HTB) resources, modules and rooms to be used with OSCP. The list is not complete and will be updated regularly**
 
 
 # OSCP Training
 
-## Table of Contents
+### Table of Contents
 
 - Basic Linux Usage
 - Tools Usage
@@ -28,6 +28,7 @@
 - PowerShell Empire
 - A Complete Example Pentest Breakdown
 - Reporting
+
 
 
 ## Basic Linux Usage
