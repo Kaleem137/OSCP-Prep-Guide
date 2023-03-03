@@ -2,6 +2,30 @@
 # **A curated list of TryHackme (THM) and HackTheBox (HTB) resources, modules and rooms to be used with OSCP. The list is not complete and will be updated regularly**
 
 
+- Basic Linux Usage
+- Tools Usage
+Bash Scripting plus example Tool creation as assignment
+Passive Information Gathering
+Active Information Gathering
+Vulnerability Scanning
+Web Attacks
+Web Application Assessment
+Web Application Exploitation
+Buffer Overflows
+Client-Side Attacks
+Public Exploits
+Exploit Transfer
+AV Evasion
+Privilege Escalation
+Password Attacks
+Port Redirection and Tunneling
+Active Directory Attacks
+Metasploit
+PowerShell Empire
+A Complete Example Pentest Breakdown
+Reporting
+
+
 # OSCP Training
 
 ## Basic Linux Usage
