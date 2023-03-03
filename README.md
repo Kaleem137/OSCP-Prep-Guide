@@ -4,26 +4,26 @@
 
 - Basic Linux Usage
 - Tools Usage
-Bash Scripting plus example Tool creation as assignment
-Passive Information Gathering
-Active Information Gathering
-Vulnerability Scanning
-Web Attacks
-Web Application Assessment
-Web Application Exploitation
-Buffer Overflows
-Client-Side Attacks
-Public Exploits
-Exploit Transfer
-AV Evasion
-Privilege Escalation
-Password Attacks
-Port Redirection and Tunneling
-Active Directory Attacks
-Metasploit
-PowerShell Empire
-A Complete Example Pentest Breakdown
-Reporting
+- Bash Scripting plus example Tool creation as assignment
+- Passive Information Gathering
+- Active Information Gathering
+- Vulnerability Scanning
+- Web Attacks
+- Web Application Assessment
+- Web Application Exploitation
+- Buffer Overflows
+- Client-Side Attacks
+- Public Exploits
+- Exploit Transfer
+- AV Evasion
+- Privilege Escalation
+- Password Attacks
+- Port Redirection and Tunneling
+- Active Directory Attacks
+- Metasploit
+- PowerShell Empire
+- A Complete Example Pentest Breakdown
+- Reporting
 
 
 # OSCP Training
